@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- *main - prints Programming is like building a multilingual puzzle
- *Return : 0 if exited,non zero otherwise
-*/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
