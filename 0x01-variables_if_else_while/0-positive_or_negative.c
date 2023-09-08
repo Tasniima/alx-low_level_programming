@@ -5,7 +5,7 @@
 /**
  * main -entry point
  * Description: positive_or_negativei
- * Return 0 (success)
+ * Return: Always 0 (success)
 */
 
 int main(void)
