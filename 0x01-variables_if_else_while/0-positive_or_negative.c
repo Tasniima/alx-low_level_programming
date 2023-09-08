@@ -4,9 +4,7 @@
 
 /**
  * main -entry point
- *
- * Description: positive_or_negative
- *
+ * Description: positive_or_negativei
  * Return 0 (success)
 */
 
