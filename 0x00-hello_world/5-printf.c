@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- *
+ * Description: A C program that prints with f function.
  * Return: Always 0 (Success)
  */
 
