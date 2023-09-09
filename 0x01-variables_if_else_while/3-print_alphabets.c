@@ -1,22 +1,18 @@
 #include <stdio.h>
 
 /**
- *main - Entry point
- *
- *Description: print all alphabet letters
- *
- *Return: Always 0 (success)*
+ * main - Entry point
+ * Description: print all alphabet letters
+ * Return: Always 0 (success)
 */
 
 int main(void)
-
-	char ch = 'T';
-
-	while (ch <= 'z')
 {
-		putchar(ch);
-		ch++;
-}
+	int count;
+
+	for (count = 'a'; count <= 'z'; count++)
+		putchar(count);
+	for (count = 'A'; count <= 'Z'; count++)
+		putchar(count);
 	putchar('\n');
 }
-	return (0);
