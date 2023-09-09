@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description: prints a quote using write function
+ * Description: prints a quote using write function.
  * Return: Always 0 (Success)
  */
 
