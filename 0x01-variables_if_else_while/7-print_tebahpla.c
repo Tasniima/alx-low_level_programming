@@ -2,20 +2,23 @@
 
 /**
  * main - Entry point
- * Description: Print the lowercase alphabet
+ * Description: prints all the numbers of base 16 in lowercase
  * Return: Always 0 (success)
- */
+*/
 
 int main(void)
 {
-	char ch;
+	int digi = 48; /*48; decimal rep of 0*/
 
-	ch = 'z';
-	while (ch >= 'a')
+	while (digit <= 102) /*102; decimal rep of f*/
 {
-	putchar(ch);
-	ch--;
+		putchar(gidit);
+
+		/* after 9 we jump till 96; '*/
+		if (digit == 57)
+			digit += 39;
+		digit++;
 }
-	putchar('\n');
-	return (0);
+putcher('\n');
+return (0);
 }
