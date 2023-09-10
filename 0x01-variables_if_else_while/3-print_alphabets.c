@@ -11,9 +11,9 @@ int main(void)
 {
 	int count;
 
-	for (count = 'a'; count <= 'z'; count++)
+	for (count = 'a', count <= 'z', count++)
 	putchar(count);
-	for (count = 'A'; count <= 'Z'; count++)
+	for (count = 'A', count <= 'Z', count++)
 	putchar(count);
 	putchar('\n');
 }
