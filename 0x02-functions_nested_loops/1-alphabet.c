@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main -entry point
- * Description: Prints _putchar using prototype
- * Return: Always 0 (success)
+ * _islower function - to check if character is lowercas
+ * @c: check inputs of function
+ * Return: 1 for lowercase character or 0 for anything else
 */
+
 
 void print_alphabet(void)
 {
