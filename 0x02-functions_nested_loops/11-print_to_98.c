@@ -6,6 +6,7 @@
  *		by space and number should be
  *		printed in order
  * @n: input
+ * Return: 0 always 
 */
 
 void print_times_table(int n)
