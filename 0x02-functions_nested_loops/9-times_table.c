@@ -2,21 +2,21 @@
 
 /**
  * times_table - Prints the 9 times table, starting with 0
+ *
  * Examples table
  * 0, 0, 0, 0, ...
  * 0, 1, 2, 3, ...
+ *
 */
 
 void times_table(void)
-
 {
-
 	int x, y, z, u, d;
 
 	for (x = 0; x <= 0; x++)
-{
+	{
 	for (y = 0; y <= 9; y++)
-{
+	{
 		z = x * y;
 		if (z > 9)
 {
