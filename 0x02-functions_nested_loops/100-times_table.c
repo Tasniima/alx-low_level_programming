@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * times_table - Prints the times table of n
+ * Times_table - Prints the times table of n
  *
  * @n: takes number input
  *
