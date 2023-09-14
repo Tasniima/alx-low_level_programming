@@ -1,6 +1,8 @@
+#niclude "main.h"
+
 /**
-* main - causes an infinite loop
-* Return: 0
+* main - taste function that prints if integer is positive or negative
+* Return: Always 0 (succes)
 */
 
 int main(void)
