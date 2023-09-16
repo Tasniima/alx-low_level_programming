@@ -2,8 +2,8 @@
 
 /**
  * print_most_numbers - print 0 - 9 apart
- *		from 2 and 4 you can
- *		only use _putchar twice
+ *	from 2 and 4 you can
+ *
  * Return: Always 0 (success)
  */
 
@@ -17,5 +17,5 @@ void print_most_numbers(void)
 			continue;
 		_putchar(num + 48);
 	}
-	_putchar("\n");
+	_putchar('\n');
 }
