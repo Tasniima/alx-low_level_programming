@@ -23,6 +23,6 @@ void more_numbers(void)
 			}
 			_putchar(num + 48);
 		}
-		_putchat('\n');
+		_putchar('\n');
 	}
 }
