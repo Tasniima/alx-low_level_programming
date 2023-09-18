@@ -6,7 +6,7 @@
  * @s: String parameter input
  *
  * Return: Nothing
-*/
+ */
 
 void rev_string(char *s)
 {
