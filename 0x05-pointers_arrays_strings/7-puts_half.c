@@ -1,10 +1,12 @@
 #include "main.h"
 
 /**
- * puts_half - print secind half of a string
- * @str: char array string type
+ * puts_half - Print secind half of a string
+ *
+ * @str: Char array string type
+ *
  * Description: If odd number of chars, print (length -1) / 2
- */
+*/
 
 void puts_half(char *str)
 {
@@ -13,7 +15,7 @@ void puts_half(char *str)
 	for (i = 0; str[i] != '\0'; i++)
 		;
 
-	i++
+	i++;
 	for (i /= 2; str[i] != '\0'; i++)
 	{
 		_putchar(str[i]);
