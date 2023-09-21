@@ -3,10 +3,10 @@
 
 /**
  * _strncat - Concatenate two strings
- * using at most n bytes from src
- * @dest: Input value
- * @n: Input value
- * @src: Input value
+ *		using at most n bytes from src
+ * @dest: input value
+ * @n: input value
+ * @src: input value
  *
  * Return: Dest
  */
