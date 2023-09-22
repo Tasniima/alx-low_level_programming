@@ -4,7 +4,7 @@
  * _strcat - function that copies a string
  * @dest: pointer to destination input buffer
  * @src: pointer to source input buffer
- *
+ * Description: Appends the src string to the dest string
  * Return: @dest
  */ 
 
