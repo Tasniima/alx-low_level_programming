@@ -1,13 +1,12 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * _strcat - function that concatenates two string
- *@dest: pointer to destination
- *@src: pointer to source input
+ * _strcat - function that copies a string
+ * @dest: pointer to destination input buffer
+ * @src: pointer to source input buffer
  *
- * Return: Pointer to the resulting string
- */
+ * Return: @dest
+ */ 
 
 char *_strcat(char *dest, char *src)
 {
