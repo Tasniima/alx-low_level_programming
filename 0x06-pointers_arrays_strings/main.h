@@ -15,5 +15,8 @@ int _putchar(char c );
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
 char *leet(char *);
 int main(void);
-
+void print_buffer(char *b, int size);
+void printASCII(char *b, int start, int end);
+void print_buffer(char *b, int size);
+int isprintableASCII(int n);
 #endif
