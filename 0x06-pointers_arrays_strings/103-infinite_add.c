@@ -1,19 +1,19 @@
 #include "main.h"
 
 /**
- * infinite_add - add two numbers
+ * infinite_add - Add two numbers
  * @n1: first number
  * @n2: second number
  * @r: result
  * @size_r: result length
  * Return: Sum
  *
-*/
+ */
 
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 {
 	/* local variable decleration*/
-	int i = 0, j = 0, k, l = 0, f, d = 0;
+	int i = 0, j = 0, k, l = 0, f, s, d = 0;
 
 	while (n1[i] != '\0')
 		i++;
